@@ -16,4 +16,4 @@ Jestem studentem informatyki na Uniwersytecie Śląskim
 
 
 ## 🔥 Statystyki:
-![GitHub Streak](https://streak-stats.demolab.com?user=Twiggiermaen21&theme=dark&short_numbers=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Twiggiermaen21&theme=dark&short_numbers=true)](https://git.io/streak-stats)
