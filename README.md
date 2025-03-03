@@ -1,12 +1,11 @@
-### 👋 Cześć! 
-#### Jestem studentem informatyki na Uniwersytecie Śląskim, specjalizującym się w programowaniu aplikacji webowych.
-
-💻 Pracuję z technologiami: Python, PHP, Java, JSF, JavaScript, React, Next.js. Tworzę nowoczesne aplikacje webowe, rozwijając swoje umiejętności zarówno na froncie, jak i backendzie.
-
-🚀 Na moim GitHubie znajdziesz projekty, nad którymi aktualnie pracuję – od małych eksperymentów po większe aplikacje.
-
-📫 Chcesz się skontaktować? Napisz do mnie na kacper.pudelko.kpk@gmail.com.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Twiggiermaen21&theme=dark&hide_border=true&border_radius=4.6" alt="GitHub Streak" /></a>
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1; padding: 10px; border: 2px solid #444; border-radius: 10px;">
+    <h3>📌 O mnie</h3>
+    <p>Jestem studentem informatyki na Uniwersytecie Śląskim, specjalizuję się w programowaniu aplikacji webowych.</p>
+    <p>Technologie: <strong>Python, PHP, Java, JSF, JavaScript, React, Next.js</strong>.</p>
+  </div>
+  <div style="flex: 1; padding: 10px; border: 2px solid #444; border-radius: 10px;">
+    <h3>🔥 Statystyki</h3>
+    <img src="https://streak-stats.demolab.com?user=Twiggiermaen21&theme=dark&short_numbers=true" alt="GitHub Streak">
+  </div>
+</div>
