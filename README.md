@@ -1,7 +1,8 @@
 
-# 👋 Cześć!
-Jestem studentem informatyki na Uniwersytecie Śląskim 
-<br>**🎯 Specjalizacja:** Programowanie aplikacji webowych<br><br>
+
+
+# 👋Cześć! 
+Jestem studentem informatyki na Uniwersytecie Śląskim, specjalizującym się w programowaniu aplikacji webowych.
 
 
 # 💻 Tech Stack:
