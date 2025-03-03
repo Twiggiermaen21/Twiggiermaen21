@@ -8,6 +8,8 @@
 💻 **Technologie**:  
 🟡 Python | 🟡 PHP | 🟡 Java | 🟡 JSF | 🟡 JavaScript | 🟡 React | 🟡 Next.js  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 🚀 **Na moim GitHubie znajdziesz**:  
 ✔️ Projekty, nad którymi pracuję – od małych eksperymentów po większe aplikacje  
 
