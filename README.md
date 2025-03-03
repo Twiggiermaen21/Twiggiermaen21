@@ -1,8 +1,6 @@
+# Hello World!👋 
+ ## My name is Kacper <br/> I'm a Computer Science student at the University of Silesia, specializing in web application development.
 
-
-
-# 👋Cześć! 
-Jestem studentem informatyki na Uniwersytecie Śląskim, specjalizującym się w programowaniu aplikacji webowych.
 
 
 # 💻 Tech Stack:
