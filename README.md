@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Twiggiermaen21/Twiggiermaen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 🚀 Na moim GitHubie znajdziesz projekty, nad którymi aktualnie pracuję – od małych eksperymentów po większe aplikacje.
 
 📫 Chcesz się skontaktować? Napisz do mnie na kacper.pudelko.kpk@gmail.com.
--->
+
