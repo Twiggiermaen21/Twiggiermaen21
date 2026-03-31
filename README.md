@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twiggiermaen21&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KacperPudełko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kacper.pudelko.kpk@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kacperpudelko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kacper.pudelko.kpk@gmail.com) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Twiggiermaen21/Twiggiermaen21/output/github-snake-dark.svg" />
